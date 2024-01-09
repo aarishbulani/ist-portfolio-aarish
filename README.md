@@ -2,7 +2,8 @@
 
 This repository is my portfoilo for my Software class. I will upload different assignments and projects to show off my skills.
 
-<3 ;)
+<3 ;) 
+Fortnite Battle Pass
 
 [Aarish's Portfolio ;)](https://github.com/aarishbulani/ist-portfolio-aarish)
 
